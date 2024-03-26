@@ -1,0 +1,17 @@
+/* The content of the page's body should have a font size of 16px (making that
+a "default" for the page). */
+
+/* Similarly, the page's body should have a font of 'Helvetica Neue', followed by Helvetica,
+Arial, and finally sans-serif if the others aren't available. */
+
+/* Paragraphs should have a line height of 1.5x the font size. Check the documentation
+carefully for how to format this value. */
+
+/* Constrain the height of the page images to be no more than 400 pixels. If your image is already
+smaller than that, you won't notice any difference in appearance, but this will ensure that the
+image is no more than 400 pixels tall, regardless of the actual size of the image file. */
+
+/* One item in your list (your choice) should be given a color other than the default black to
+highlight it as important. Use a class selector to apply this rule; this means you will need to
+modify the HTML to give one list element a class attribute. Be sure to use a semantic name for your
+class! */
